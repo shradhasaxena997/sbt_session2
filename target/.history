@@ -1,0 +1,60 @@
+help
+settings
+show name
+version
+show libraryDependencies
+set libraryDependencies += "com.github.nscala-time" %% "nscala-time" % "2.24.0"
+show libraryDependencies
+compile
+show libraryDependencies
+vi build.sbt
+nano build.sbt
+build.sbt
+sbt run
+compile
+sbt run
+run
+compile
+run
+show libraryDependencies
+sbt run
+run
+help
+settings
+src/main
+cd build.sbt
+show name
+show libraryDependencies
+reload
+show name
+show libraryDpendencies
+show libraryDependencies
+set libraryDependencies += "com.github.nscala-time" %% "nscala-time" % "2.24.0"
+compile
+run
+vi helloWorld.scala
+nano HElloWorld.scala
+nano build.sbt
+build.sbt
+ls
+build.sbt
+help
+nano helloWorld.scala
+helloWorld.scala
+exit
+compile
+run
+help run
+run
+compile
+run
+set ThisBuild / scalaVersion := "2.13.3"
+scalaVersion
+session save
+build.sbt
+touch build.sbt
+reload
+test
+show libraryDependencies
+reload
+show libraryDependencies
